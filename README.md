@@ -48,9 +48,3 @@ This project simulates real-world hotel operations with features like room manag
 - Modular system design
 
 ---
-
-## 🖥️ How to Run
-
-### Compile
-```bash
-g++ hotel_booking_system.cpp -o hotel
