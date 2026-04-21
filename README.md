@@ -48,3 +48,24 @@ This project simulates real-world hotel operations with features like room manag
 - Modular system design
 
 ---
+## Frontend Implementation (HTML, CSS, JavaScript)
+
+In addition to the core logic implemented in C++, this project also includes a frontend prototype built using HTML, CSS, and JavaScript.
+
+The frontend was generated with the help of AI tools to visually represent and simulate the same concepts implemented in the C++ program. It serves as an interactive layer that demonstrates how the underlying logic can be adapted for a web-based environment.
+
+### Key Points
+
+- The frontend replicates the core functionality and behavior of the C++ implementation.
+- Built using:
+  - **HTML** for structure  
+  - **CSS** for styling and layout  
+  - **JavaScript** for interactivity and logic handling  
+- Designed as a conceptual and visual representation rather than a full production system.
+- Helps in understanding how the same logic can transition from a console-based application (C++) to a user-friendly web interface.
+
+### Purpose
+
+- To bridge the gap between backend logic (C++) and frontend interaction.
+- To demonstrate adaptability of the implemented concepts across different technologies.
+- To provide a more intuitive and interactive way to explore the project.
